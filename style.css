@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  background-color: #fafafa;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: none;
+}
+.container {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container1 {
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  width: 22rem;
+}
+.iglogo {
+  padding: 3em;
+}
+.userpass {
+  margin: 3px;
+  width: 265px;
+  height: 36px;
+  font-size: 12px;
+  color: #9B9BB9;
+  background-color: #fafafa;
+  border: 1px solid #dbdbdb;
+border-radius: 3px;
+}
+.submit {
+  border: none;
+  background-color: #b2dffc;
+  border-radius: 2px;
+  color: #fff;
+  width: 270px;
+  height: 32px;
+  margin: 10px;
+}
+.submit:hover {
+  background-color: #0095f6;
+}
+table {
+  justify-self: center;
+}
+.hr-l {
+  width: 47%;
+  padding-left: 30px;
+}
+.hr-r {
+  padding-right: 30px;
+  width: 47%;
+}
+.hr-or {
+  color: #8e8e8e;
+  padding: 5px;
+  vertical-align: middle;
+  text-align: center;
+}
+hr{
+  width: 90%;
+  height: 1px;
+  border: none;
+  background-color: #dbdbdb;
+}
+.pfb{
+  margin: 20px 0;
+}
+.fa-brands{
+  size: 14px;
+  color: #385185;
+}
+.fb{
+  font-weight: 500;
+  color: #385185;
+  text-decoration: none;
+}
+.fb:visited {
+  color: none;
+}
+.pforgot{
+  margin: 20px 0;
+}
+.forgot{
+  color: black;
+  font-size: small;
+}
+.container2 {
+  margin: 10px;
+  padding: 5px 0;
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  width: 22rem;
+}
+.container2 a {
+  color: #0095f6;
+  font-weight: 500;
+}
+.container3 {
+  text-align: center;
+  background-color: #fafafa;
+  width: 22rem;
+  margin: 10px;
+  padding: ;
+}
+.store {
+  margin: 2px;
+  width: 130px;
+}
+.iglogo:hover {
+  cursor: pointer;
+}
+footer {
+  text-align: center;
+  padding: 40px;
+}
+.foot {
+  color: #8e8e8e;
+  padding: 5px;
+  font-size: 12px;
+}
